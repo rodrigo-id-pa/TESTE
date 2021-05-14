@@ -3,9 +3,8 @@
   var result = str.link('http://www.tasken.com/');
   var texts = [
       'Seja Bem-vindo ao meu site.',
-      'Me chamo Rodrigo, sou Desenvolvedor Front-End e Web Design Jr.',
+      'Me chamo Rodrigo, sou Desenvolvedor Front-End',
       'Sou estudante de Análise e desenvolvimento de sistemas da Unopar.',
-      `Estagiário em desenvolvedor front end react na ${result}`,
       'Meu objetivo é crescer e desenvolver profissionalmente junto à empresa.',
     ],
     row = 0,
