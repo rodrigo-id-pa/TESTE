@@ -1,5 +1,4 @@
 (function ($) {
-  var str = 'Tasken';
   var texts = [
       'Seja Bem-vindo ao meu site.',
       'Me chamo Rodrigo, sou Desenvolvedor Front-End',
