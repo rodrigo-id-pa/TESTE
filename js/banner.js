@@ -1,6 +1,5 @@
 (function ($) {
   var str = 'Tasken';
-  var result = str.link('http://www.tasken.com/');
   var texts = [
       'Seja Bem-vindo ao meu site.',
       'Me chamo Rodrigo, sou Desenvolvedor Front-End',
